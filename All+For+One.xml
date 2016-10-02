@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Community Farm</name>
+  </author>
+  <id>http://www.thecommunityfarm.co.uk/boxes/box_display.php</id>
+  <title>All For One</title>
+  <updated>2016-10-01T12:04:30+00:00</updated>
+  <entry>
+    <content>Potatoes (Valor) (Somerset)&lt;br&gt;Carrots (Dirty) (Somerset)&lt;br&gt;Cauliflower (Green) (Somerset)&lt;br&gt;Cabbage (Pointed) (Cornwall)&lt;br&gt;Leeks (Our Field)&lt;br&gt;Sweetcorn (Somerset)&lt;br&gt;Chillies (Our Field)</content>
+    <id>All For One 0a6eee79f5d1fd8ea9dc7c7e0611e0e8b17b95e5</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>All For One 2016-10-01T12:04:30+00:00</title>
+    <updated>2016-10-01T12:04:30+00:00</updated>
+    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+  </entry>
+  <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+</feed>

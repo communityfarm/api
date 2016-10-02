@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Community Farm</name>
+  </author>
+  <id>http://www.thecommunityfarm.co.uk/boxes/box_display.php</id>
+  <title>Family Provider Large</title>
+  <updated>2016-10-01T12:04:30+00:00</updated>
+  <entry>
+    <content>Potatoes (Valor) (Somerset)&lt;br&gt;Carrots (Dirty) (Somerset)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Cauliflower (Green) (Somerset)&lt;br&gt;Brussel Sprout Tops (Somerset)&lt;br&gt;Cabbage (White) (Our Field)&lt;br&gt;Butternut Squash (Somerset)&lt;br&gt;Leeks (our field)&lt;br&gt;Sweetcorn (Somerset)&lt;br&gt;Beetroot (Somerset)&lt;br&gt;Apples  (Hereford)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Oranges (SPA)</content>
+    <id>Family Provider Large 311fc748548acb075d123faab87e50e4c64a22b8</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Family Provider Large 2016-10-01T12:04:30+00:00</title>
+    <updated>2016-10-01T12:04:30+00:00</updated>
+    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+  </entry>
+  <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+</feed>

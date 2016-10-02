@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Community Farm</name>
+  </author>
+  <id>http://www.thecommunityfarm.co.uk/boxes/box_display.php</id>
+  <title>Veg No Potatoes Small</title>
+  <updated>2016-10-01T12:04:30+00:00</updated>
+  <entry>
+    <content>Carrots (Dirty) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Leeks (our field)&lt;br&gt;Broccoli (Somerset)&lt;br&gt;Squash (Patty Pan) (Our Field)&lt;br&gt;Beetroot (Somerset)&lt;br&gt;Kale (Curly) (Our Field)&lt;br&gt;Chillies (Our field)</content>
+    <id>Veg No Potatoes Small f10f377315d64814fed997834a265ab5f58046d4</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Veg No Potatoes Small 2016-10-01T12:04:30+00:00</title>
+    <updated>2016-10-01T12:04:30+00:00</updated>
+    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+  </entry>
+  <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+</feed>
