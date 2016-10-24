@@ -31,5 +31,13 @@
     <updated>2016-10-15T22:00:49+00:00</updated>
     <dc:date>2016-10-15T22:00:49+00:00</dc:date>
   </entry>
+  <entry>
+    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Hereford)</content>
+    <id>https://communityfarm.github.io/api/Office+Fruit+Box.xml#07c84512baef6b5c74bd1ad00dbd3c14fae49cea</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Office Fruit Box 2016-10-24T00:31:04+00:00</title>
+    <updated>2016-10-24T00:31:04+00:00</updated>
+    <dc:date>2016-10-24T00:31:04+00:00</dc:date>
+  </entry>
   <dc:date>2016-10-01T12:04:30+00:00</dc:date>
 </feed>
