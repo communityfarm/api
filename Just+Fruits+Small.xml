@@ -8,68 +8,20 @@
   <title>Just Fruits Small</title>
   <updated>2016-10-01T12:04:30+00:00</updated>
   <entry>
-    <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Wiltshire)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#6794f301891316da9b3695fab219298a2e8b0329</id>
+    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Hereford)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#07c84512baef6b5c74bd1ad00dbd3c14fae49cea</id>
     <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-11-26T11:01:22+00:00</title>
-    <updated>2016-11-26T11:01:22+00:00</updated>
-    <dc:date>2016-11-26T11:01:22+00:00</dc:date>
-  </entry>
-  <entry>
-    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#0987be7e5c4e99e46a77cd4f95ab03a25940363c</id>
-    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-08T10:43:57+00:00</title>
-    <updated>2016-10-08T10:43:57+00:00</updated>
-    <dc:date>2016-10-08T10:43:57+00:00</dc:date>
-  </entry>
-  <entry>
-    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Plums (SPA)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#aca01a9abe067a107a1672837b30db0d4a4994ad</id>
-    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-15T22:00:49+00:00</title>
-    <updated>2016-10-15T22:00:49+00:00</updated>
-    <dc:date>2016-10-15T22:00:49+00:00</dc:date>
-  </entry>
-  <entry>
-    <content>Apples (Discovery) (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Plums (SPA)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f01d0c5a18be70796beb90d13c770df682441124</id>
-    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-24T00:31:04+00:00</title>
-    <updated>2016-10-24T00:31:04+00:00</updated>
-    <dc:date>2016-10-24T00:31:04+00:00</dc:date>
-  </entry>
-  <entry>
-    <content>Apples (Somerset)&lt;br&gt;Kiwi (SPA)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f4501615feec040503f3a2421cf6aa3e061a1aa7</id>
-    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-28T22:40:39+00:00</title>
-    <updated>2016-10-28T22:40:39+00:00</updated>
-    <dc:date>2016-10-28T22:40:39+00:00</dc:date>
-  </entry>
-  <entry>
-    <content>Apples (Somerset)&lt;br&gt;Kiwi (SPA)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f4501615feec040503f3a2421cf6aa3e061a1aa7</id>
-    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-31T05:46:50+00:00</title>
-    <updated>2016-10-31T05:46:50+00:00</updated>
-    <dc:date>2016-10-31T05:46:50+00:00</dc:date>
-  </entry>
-  <entry>
-    <content>Apples (Somerset)&lt;br&gt;Kiwi (SPA)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f4501615feec040503f3a2421cf6aa3e061a1aa7</id>
-    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-11-05T02:22:39+00:00</title>
-    <updated>2016-11-05T02:22:39+00:00</updated>
-    <dc:date>2016-11-05T02:22:39+00:00</dc:date>
+    <title>Just Fruits Small 2016-10-01T12:04:30+00:00</title>
+    <updated>2016-10-01T12:04:30+00:00</updated>
+    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
   </entry>
   <entry>
     <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Clementines (SPA)</content>
     <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#528b192c07b2cad8d3d83d13a0213b228544106d</id>
     <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-11-17T21:16:06+00:00</title>
-    <updated>2016-11-17T21:16:06+00:00</updated>
-    <dc:date>2016-11-17T21:16:06+00:00</dc:date>
+    <title>Just Fruits Small 2016-11-22T21:45:40+00:00</title>
+    <updated>2016-11-22T21:45:40+00:00</updated>
+    <dc:date>2016-11-22T21:45:40+00:00</dc:date>
   </entry>
   <entry>
     <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Clementines (SPA)</content>
@@ -83,17 +35,65 @@
     <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Clementines (SPA)</content>
     <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#528b192c07b2cad8d3d83d13a0213b228544106d</id>
     <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-11-22T21:45:40+00:00</title>
-    <updated>2016-11-22T21:45:40+00:00</updated>
-    <dc:date>2016-11-22T21:45:40+00:00</dc:date>
+    <title>Just Fruits Small 2016-11-17T21:16:06+00:00</title>
+    <updated>2016-11-17T21:16:06+00:00</updated>
+    <dc:date>2016-11-17T21:16:06+00:00</dc:date>
   </entry>
   <entry>
-    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Hereford)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#07c84512baef6b5c74bd1ad00dbd3c14fae49cea</id>
+    <content>Apples (Somerset)&lt;br&gt;Kiwi (SPA)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f4501615feec040503f3a2421cf6aa3e061a1aa7</id>
     <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-01T12:04:30+00:00</title>
-    <updated>2016-10-01T12:04:30+00:00</updated>
-    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+    <title>Just Fruits Small 2016-11-05T02:22:39+00:00</title>
+    <updated>2016-11-05T02:22:39+00:00</updated>
+    <dc:date>2016-11-05T02:22:39+00:00</dc:date>
+  </entry>
+  <entry>
+    <content>Apples (Somerset)&lt;br&gt;Kiwi (SPA)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f4501615feec040503f3a2421cf6aa3e061a1aa7</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Just Fruits Small 2016-10-31T05:46:50+00:00</title>
+    <updated>2016-10-31T05:46:50+00:00</updated>
+    <dc:date>2016-10-31T05:46:50+00:00</dc:date>
+  </entry>
+  <entry>
+    <content>Apples (Somerset)&lt;br&gt;Kiwi (SPA)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f4501615feec040503f3a2421cf6aa3e061a1aa7</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Just Fruits Small 2016-10-28T22:40:39+00:00</title>
+    <updated>2016-10-28T22:40:39+00:00</updated>
+    <dc:date>2016-10-28T22:40:39+00:00</dc:date>
+  </entry>
+  <entry>
+    <content>Apples (Discovery) (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Plums (SPA)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#f01d0c5a18be70796beb90d13c770df682441124</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Just Fruits Small 2016-10-24T00:31:04+00:00</title>
+    <updated>2016-10-24T00:31:04+00:00</updated>
+    <dc:date>2016-10-24T00:31:04+00:00</dc:date>
+  </entry>
+  <entry>
+    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Plums (SPA)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#aca01a9abe067a107a1672837b30db0d4a4994ad</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Just Fruits Small 2016-10-15T22:00:49+00:00</title>
+    <updated>2016-10-15T22:00:49+00:00</updated>
+    <dc:date>2016-10-15T22:00:49+00:00</dc:date>
+  </entry>
+  <entry>
+    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#0987be7e5c4e99e46a77cd4f95ab03a25940363c</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Just Fruits Small 2016-10-08T10:43:57+00:00</title>
+    <updated>2016-10-08T10:43:57+00:00</updated>
+    <dc:date>2016-10-08T10:43:57+00:00</dc:date>
+  </entry>
+  <entry>
+    <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Wiltshire)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#6794f301891316da9b3695fab219298a2e8b0329</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Just Fruits Small 2016-11-26T11:01:22+00:00</title>
+    <updated>2016-11-26T11:01:22+00:00</updated>
+    <dc:date>2016-11-26T11:01:22+00:00</dc:date>
   </entry>
   <dc:date>2016-10-01T12:04:30+00:00</dc:date>
 </feed>
