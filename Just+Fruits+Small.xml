@@ -8,12 +8,12 @@
   <title>Just Fruits Small</title>
   <updated>2016-10-01T12:04:30+00:00</updated>
   <entry>
-    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Hereford)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#07c84512baef6b5c74bd1ad00dbd3c14fae49cea</id>
+    <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Wiltshire)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#6794f301891316da9b3695fab219298a2e8b0329</id>
     <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-10-01T12:04:30+00:00</title>
-    <updated>2016-10-01T12:04:30+00:00</updated>
-    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
+    <title>Just Fruits Small 2016-11-26T11:01:22+00:00</title>
+    <updated>2016-11-26T11:01:22+00:00</updated>
+    <dc:date>2016-11-26T11:01:22+00:00</dc:date>
   </entry>
   <entry>
     <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)</content>
@@ -88,12 +88,12 @@
     <dc:date>2016-11-22T21:45:40+00:00</dc:date>
   </entry>
   <entry>
-    <content>Apples (Somerset)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Wiltshire)</content>
-    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#6794f301891316da9b3695fab219298a2e8b0329</id>
+    <content>Apples (Hereford)&lt;br&gt;Oranges (SPA)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Pears (Hereford)</content>
+    <id>https://communityfarm.github.io/api/Just+Fruits+Small.xml#07c84512baef6b5c74bd1ad00dbd3c14fae49cea</id>
     <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
-    <title>Just Fruits Small 2016-11-26T11:01:22+00:00</title>
-    <updated>2016-11-26T11:01:22+00:00</updated>
-    <dc:date>2016-11-26T11:01:22+00:00</dc:date>
+    <title>Just Fruits Small 2016-10-01T12:04:30+00:00</title>
+    <updated>2016-10-01T12:04:30+00:00</updated>
+    <dc:date>2016-10-01T12:04:30+00:00</dc:date>
   </entry>
   <dc:date>2016-10-01T12:04:30+00:00</dc:date>
 </feed>
