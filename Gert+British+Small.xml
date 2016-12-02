@@ -6,7 +6,15 @@
   </author>
   <id>https://communityfarm.github.io/api/Gert+British+Small.xml</id>
   <title>Gert British Small</title>
-  <updated>2016-11-26T11:01:22+00:00</updated>
+  <updated>2016-12-02T20:27:25+00:00</updated>
+  <entry>
+    <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Dirty) (Somerset)&lt;br&gt;Squash (Uchiki Kuri) (Our Field)&lt;br&gt;Cauliflower (Somerset)&lt;br&gt;Cabbage (Savoy) (Somerset)&lt;br&gt;Leeks (Our Field)&lt;br&gt;Sprout Tops (Lancs)</content>
+    <id>https://communityfarm.github.io/api/Gert+British+Small.xml#9cd468a1cd26f194bd8cd9bcc711c6800466f146</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Gert British Small 2016-12-02T20:27:25+00:00</title>
+    <updated>2016-12-02T20:27:25+00:00</updated>
+    <dc:date>2016-12-02T20:27:25+00:00</dc:date>
+  </entry>
   <entry>
     <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Rainbow) (Lancs)&lt;br&gt;Swede (Somerset)&lt;br&gt;Beetroot (Somerset)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Cauliflower (Cornwall)&lt;br&gt;Leeks (Our Field)&lt;br&gt;Winter Greens (Cornwall)</content>
     <id>https://communityfarm.github.io/api/Gert+British+Small.xml#079ba9a3d28d2b8725d543504e645cfd0e76df08</id>
@@ -95,5 +103,5 @@
     <updated>2016-10-01T12:04:30+00:00</updated>
     <dc:date>2016-10-01T12:04:30+00:00</dc:date>
   </entry>
-  <dc:date>2016-11-26T11:01:22+00:00</dc:date>
+  <dc:date>2016-12-02T20:27:25+00:00</dc:date>
 </feed>

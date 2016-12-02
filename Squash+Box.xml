@@ -6,7 +6,15 @@
   </author>
   <id>https://communityfarm.github.io/api/Squash+Box.xml</id>
   <title>Squash Box</title>
-  <updated>2016-11-26T11:01:22+00:00</updated>
+  <updated>2016-12-02T20:27:25+00:00</updated>
+  <entry>
+    <content>Squash varieties will vary depending on availability.</content>
+    <id>https://communityfarm.github.io/api/Squash+Box.xml#cd6d34884b68141117ee2618a098662e6803a4e6</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Squash Box 2016-12-02T20:27:25+00:00</title>
+    <updated>2016-12-02T20:27:25+00:00</updated>
+    <dc:date>2016-12-02T20:27:25+00:00</dc:date>
+  </entry>
   <entry>
     <content>Squash varieties will vary depending on availability.</content>
     <id>https://communityfarm.github.io/api/Squash+Box.xml#cd6d34884b68141117ee2618a098662e6803a4e6</id>
@@ -71,5 +79,5 @@
     <updated>2016-10-24T00:31:04+00:00</updated>
     <dc:date>2016-10-24T00:31:04+00:00</dc:date>
   </entry>
-  <dc:date>2016-11-26T11:01:22+00:00</dc:date>
+  <dc:date>2016-12-02T20:27:25+00:00</dc:date>
 </feed>
