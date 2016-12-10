@@ -6,7 +6,15 @@
   </author>
   <id>https://communityfarm.github.io/api/Family+Provider+Large.xml</id>
   <title>Family Provider Large</title>
-  <updated>2016-12-02T20:27:25+00:00</updated>
+  <updated>2016-12-10T05:16:44+00:00</updated>
+  <entry>
+    <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Rainbow) (Lancs)&lt;br&gt;Squash (Uchiki Kuri) (Our Field)&lt;br&gt;Beetroot (Somerset)&lt;br&gt;Cauliflower (Cornwall)&lt;br&gt;Cabbage (Savoy) (Somerset)&lt;br&gt;Winter Greens (Somerset)&lt;br&gt;Broccoli (SPA)&lt;br&gt;Tomatoes (Cherry) (SPA)&lt;br&gt;Apples (Spartan) (Somerset)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Oranges (SPA)</content>
+    <id>https://communityfarm.github.io/api/Family+Provider+Large.xml#efe190df3986c40f6e26038620c0eae43f88a336</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Family Provider Large 2016-12-10T05:16:44+00:00</title>
+    <updated>2016-12-10T05:16:44+00:00</updated>
+    <dc:date>2016-12-10T05:16:44+00:00</dc:date>
+  </entry>
   <entry>
     <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Somerset)&lt;br&gt;Beetroot (Somerset)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Cauliflower (Somerset)&lt;br&gt;Cabbage (Savoy) (Somerset)&lt;br&gt;Sweet Potatoes (SPA)&lt;br&gt;Celeriac (Somerset)&lt;br&gt;Kale (Curly Red) (Our Field)&lt;br&gt;Tomatoes (SPA)&lt;br&gt;Apples (Somerset)&lt;br&gt;Bananas (Ecuador)&lt;br&gt;Oranges (SPA)</content>
     <id>https://communityfarm.github.io/api/Family+Provider+Large.xml#89955083d7fc2ed015018940ce61f73746f5e436</id>
@@ -103,5 +111,5 @@
     <updated>2016-10-01T12:04:30+00:00</updated>
     <dc:date>2016-10-01T12:04:30+00:00</dc:date>
   </entry>
-  <dc:date>2016-12-02T20:27:25+00:00</dc:date>
+  <dc:date>2016-12-10T05:16:44+00:00</dc:date>
 </feed>

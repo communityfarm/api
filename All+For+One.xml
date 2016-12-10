@@ -6,7 +6,15 @@
   </author>
   <id>https://communityfarm.github.io/api/All+For+One.xml</id>
   <title>All For One</title>
-  <updated>2016-12-02T20:27:25+00:00</updated>
+  <updated>2016-12-10T05:16:44+00:00</updated>
+  <entry>
+    <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Dirty) (Somerset)&lt;br&gt;Beetroot (Somerset)&lt;br&gt;Cauliflower (Cornwall)&lt;br&gt;Brussel Sprouts (Somerset)</content>
+    <id>https://communityfarm.github.io/api/All+For+One.xml#8e043a0fec5ebcce614ce280ccb69b9f622d46f1</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>All For One 2016-12-10T05:16:44+00:00</title>
+    <updated>2016-12-10T05:16:44+00:00</updated>
+    <dc:date>2016-12-10T05:16:44+00:00</dc:date>
+  </entry>
   <entry>
     <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Squash (Uchiki Kuri) (Our Field)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Leeks (Our Field)&lt;br&gt;Kale (Red Curly) (Our Field)</content>
     <id>https://communityfarm.github.io/api/All+For+One.xml#f558af520203ba3d985f0d82ceeac317fbebf2f5</id>
@@ -103,5 +111,5 @@
     <updated>2016-10-01T12:04:30+00:00</updated>
     <dc:date>2016-10-01T12:04:30+00:00</dc:date>
   </entry>
-  <dc:date>2016-12-02T20:27:25+00:00</dc:date>
+  <dc:date>2016-12-10T05:16:44+00:00</dc:date>
 </feed>

@@ -6,7 +6,15 @@
   </author>
   <id>https://communityfarm.github.io/api/Veg+Variety+Small.xml</id>
   <title>Veg Variety Small</title>
-  <updated>2016-12-02T20:27:25+00:00</updated>
+  <updated>2016-12-10T05:16:44+00:00</updated>
+  <entry>
+    <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Rainbow) (Somerset)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Leeks (our field)&lt;br&gt;Broccoli (SPA)&lt;br&gt;Kale (Mixed) (Our Field)&lt;br&gt;Tomatoes (Cherry) (SPA)</content>
+    <id>https://communityfarm.github.io/api/Veg+Variety+Small.xml#3c8260ea78251b7f89ec7323cebb035e1cc9b775</id>
+    <link href="http://www.thecommunityfarm.co.uk/boxes/box_display.php"/>
+    <title>Veg Variety Small 2016-12-10T05:16:44+00:00</title>
+    <updated>2016-12-10T05:16:44+00:00</updated>
+    <dc:date>2016-12-10T05:16:44+00:00</dc:date>
+  </entry>
   <entry>
     <content>Potatoes (Valor) (Somerset)&lt;br&gt;Onions (Somerset)&lt;br&gt;Carrots (Somerset)&lt;br&gt;Squash (Uchiki Kuri) (Our Field)&lt;br&gt;Parsnips (Somerset)&lt;br&gt;Cabbage (Savoy) (Somerset)&lt;br&gt;Turnips (Lancs)&lt;br&gt;Sprout Tops (Lancs)&lt;br&gt;Tomatoes (Round) (SPA)</content>
     <id>https://communityfarm.github.io/api/Veg+Variety+Small.xml#f9342ba346a6694797a690eb200c5d0ad86c7d32</id>
@@ -103,5 +111,5 @@
     <updated>2016-10-01T12:04:30+00:00</updated>
     <dc:date>2016-10-01T12:04:30+00:00</dc:date>
   </entry>
-  <dc:date>2016-12-02T20:27:25+00:00</dc:date>
+  <dc:date>2016-12-10T05:16:44+00:00</dc:date>
 </feed>
